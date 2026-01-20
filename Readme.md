@@ -1,6 +1,7 @@
-# HackXIndia
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9c6dc456-c2b3-4100-93cd-2e6847beb56d" /># HackXIndia
 ### Track: Open Bharat
 ### Problem Statement: Inclusive tech for accessibility & language.
+### Prototype Link: https://drive.google.com/file/d/1Gbq_-_1dF0-nm8eV8xS64LALwKNIeVvV/view?usp=sharing
 
 > **An AI-powered accessibility ecosystem that bridges the digital and physical world using voice, vision, gesture, AR, and IoT to empower specially-abled, elderly, and illiterate users.**
 
