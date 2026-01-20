@@ -1,6 +1,6 @@
 # HackXIndia
-## Track: Open Bharat 
-## Problme Statement: Inclusive tech for accessibility & language.
+### Track: Open Bharat
+### Problme Statement: Inclusive tech for accessibility & language.
 
 > **An AI-powered accessibility ecosystem that bridges the digital and physical world using voice, vision, gesture, AR, and IoT to empower specially-abled, elderly, and illiterate users.**
 
