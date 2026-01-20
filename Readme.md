@@ -8,7 +8,7 @@
 
 ## 🚀 Overview
 
-HackCrypt: The Cosmic Cipher is a unified accessibility platform designed to make modern technology usable for **everyone**, especially:
+Sutradhar is a unified accessibility platform designed to make modern technology usable for **everyone**, especially:
 - Visually impaired users
 - Senior citizens
 - Deaf and mute users
