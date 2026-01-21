@@ -51,7 +51,7 @@ import google.generativeai as genai
 app = Flask(__name__)
 CORS(app)
 # Configure Gemini API
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "AIzaSyDZ7Jm3yXkuA85FkqCWv7Oj7HkuhVodBOg")
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "API_KEY")
 DEFAULT_MODEL = os.environ.get("DEFAULT_MODEL", "gemini-3-flash-preview")
 
 # Configure Gemini
